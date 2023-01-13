@@ -20,4 +20,4 @@ Access it [here](overview/image-processing-demo.gif)!
 ![image](overview/original-before.jpg)
 
 #### After
-![image](overview/original-before.jpg)
+![image](overview/after.jpg)
