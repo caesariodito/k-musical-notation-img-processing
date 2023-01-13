@@ -11,6 +11,9 @@ We hope this project can help developer executing the next phase.
 
 ## Run Preview
 
+### Video GIF
+Access it [here](overview/image-processing-demo.gif)!
+
 ### Image
 
 #### Before
@@ -18,6 +21,3 @@ We hope this project can help developer executing the next phase.
 
 #### After
 ![image](overview/original-before.jpg)
-
-
-Access it [here](overview/image-processing-demo.gif)!
