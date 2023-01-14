@@ -2,6 +2,10 @@
 
 This is the Final Exam Project on Image Processing.
 
+## Made by
+- @[caesariodito](https://github.com/caesariodito)
+- @[imniwa](https://github.com/imniwa)
+
 Planned Phases:
 - Image Processing (this project)
 - Feature Extraction ?
